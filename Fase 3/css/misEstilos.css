@@ -1,0 +1,10 @@
+*{
+    margin: 5px;
+    border-radius: 3px;
+}
+header{
+     background-color: hsl(160, 59%, 53%);
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
