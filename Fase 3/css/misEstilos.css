@@ -45,7 +45,17 @@ nav ul{
    align-items: center;
    justify-content: center;
    color:white;
-   background: chocolate;
+   background: rgb(153, 67, 252);
    height: 25px;
    text-decoration: none;
+}
+.dropdown li{
+    display: none;
+}
+.menu li:hover .dropdown {
+    display: block;
+}
+.menu a:hover{
+    background: blueviolet;
+    color:white
 }
