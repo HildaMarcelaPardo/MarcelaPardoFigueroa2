@@ -51,7 +51,7 @@ nav ul{
 .dropdown li{
     display: none;
 }
-.menu li:hover .dropdown {
+.menu li:hover .dropdown li{
     display: block;
 }
 .menu a:hover{
