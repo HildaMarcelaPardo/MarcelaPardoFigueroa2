@@ -1,6 +1,6 @@
 *{
     margin: 5px;
-    border-radius: 3px;
+    border-radius: 10px;
 }
 header{
      background-color: hsl(160, 59%, 53%);
@@ -11,7 +11,6 @@ header{
 .contenedor{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-
 }
 aside{
     grid-column: 1/2;
